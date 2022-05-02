@@ -7,4 +7,6 @@ I was looking for some interesting and funny datasets for my statistics project 
 ## Goal
 I believe any project needs to have a well-defined goal. For now, mine will be to create a simple map of all Bigfoot sightings and try to turn it into an animation in order to track the elusive animal's movement. More ideas will probably emerge throughout my research. Let's get into it.
 
-## Development
+---
+## The hunt.
+Before we get into plotting all the sightings on a map, it is important to get to know the data by looking at distributions. We need to know Bigfoot's habits and preferences. Is it active by night or by day? 
